@@ -10,7 +10,6 @@ I enjoy building **web applications with Django** and exploring **game developme
 - 🎮 Interested in **game development** and experimenting with **C++**
 - 🌱 Always learning new technologies and improving my skills
 - 📚 Exploring backend, 3D engines, and interactive software
-- ⚡ Fun fact: I like turning ideas into projects and sharing them on GitHub
 
 ---
 
